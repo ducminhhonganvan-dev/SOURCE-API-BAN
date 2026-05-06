@@ -1,0 +1,10 @@
+Flask
+pycryptodome
+requests
+protobuf
+googleapis-common-protos
+urllib3
+gunicorn
+certifi
+charset-normalizer
+idna
